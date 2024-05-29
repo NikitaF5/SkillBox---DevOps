@@ -171,8 +171,3 @@ SELECT `u`.`id`, `u`.`name`,
        END AS `loyalty_label`
 FROM `user` `u`;
 ```
-
-
-
-
-
